@@ -14,6 +14,7 @@
 		C69CA6CA289443C40036F67E /* SwiftUiCryptoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69CA6C9289443C40036F67E /* SwiftUiCryptoApp.swift */; };
 		C69CA6CC289443C40036F67E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69CA6CB289443C40036F67E /* ContentView.swift */; };
 		C69CA6DC289446850036F67E /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69CA6DB289446850036F67E /* Color.swift */; };
+		C6C9FFAD2897FCEC00F41F6B /* CoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C9FFAC2897FCEC00F41F6B /* CoinModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		C69CA6C9289443C40036F67E /* SwiftUiCryptoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiCryptoApp.swift; sourceTree = "<group>"; };
 		C69CA6CB289443C40036F67E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C69CA6DB289446850036F67E /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		C6C9FFAC2897FCEC00F41F6B /* CoinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 		C69CA6BD289443C40036F67E = {
 			isa = PBXGroup;
 			children = (
+				C6C9FFAB2897FCDA00F41F6B /* Models */,
 				C69CA6CB289443C40036F67E /* ContentView.swift */,
 				C69CA6C8289443C40036F67E /* SwiftUiCrypto */,
 				C66869F7289570F500277F97 /* Assets.xcassets */,
@@ -122,6 +125,14 @@
 				C69CA6DB289446850036F67E /* Color.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		C6C9FFAB2897FCDA00F41F6B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C6C9FFAC2897FCEC00F41F6B /* CoinModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,6 +210,7 @@
 				C6686A02289574A500277F97 /* CircleButtonView.swift in Sources */,
 				C69CA6DC289446850036F67E /* Color.swift in Sources */,
 				C6686A0428957AA400277F97 /* CircleButtonAnimationView.swift in Sources */,
+				C6C9FFAD2897FCEC00F41F6B /* CoinModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
