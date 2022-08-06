@@ -10,18 +10,18 @@ import SwiftUI
 
 extension PreviewProvider {
     
-    static var dev: DeveloperPreview {
-        return DeveloperPreview.instance
+    static var vev: Preview {
+        return Preview.instance
     }
     
 }
 
-class DeveloperPreview {
+class Preview {
     
-    static let instance = DeveloperPreview()
+    static let instance = Preview()
     private init() { }
     
-// let homeVM = HomeViewModel()
+    let homeVM = HomeViewModel()
     
  //   let stat1 = StatisticModel(title: "Market Cap", value: "$12.5Bn", percentageChange: 25.34)
   //  let stat2 = StatisticModel(title: "Total Volume", value: "$1.23Tr")

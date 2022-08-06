@@ -27,10 +27,10 @@ struct CoinRowView: View {
 struct CoinRowView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            CoinRowView(coin: dev.coin, showHoldingsColumn: true)
+            CoinRowView(coin: vev.coin, showHoldingsColumn: true)
                 .previewLayout(.sizeThatFits)
             
-            CoinRowView(coin: dev.coin, showHoldingsColumn: true)
+            CoinRowView(coin: vev.coin, showHoldingsColumn: true)
                 .previewLayout(.sizeThatFits)
                 .preferredColorScheme(.dark)
         }
