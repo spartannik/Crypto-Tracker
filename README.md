@@ -17,3 +17,11 @@
 Весь проект был выполнен с использованием архитектуры MVVM.
 
 В настоящее время работает на iPhone (iOS 16.0).
+
+## Built With
+
+* [SwfitUI](https://developer.apple.com/xcode/swiftui/) - To build user interfaces across all Apple platforms.
+* [Xcode 14.0](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes) - Latest version.
+* [Combine](https://developer.apple.com/documentation/combine/) - Framework.
+* [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) - architectural pattern.
+* [Core Data](https://developer.apple.com/documentation/coredata/) - Framework.
