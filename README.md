@@ -10,14 +10,6 @@
 <img alt="![photo_2022-09-17 18 06 32]" src="https://user-images.githubusercontent.com/54499958/190864064-44130213-1a4a-4328-8f40-6c84151a0b76.jpeg"
  height="420" width="210">,
 
-## Технический стек
-
-**Клиент:** SwiftUI, Combine, CoreData
-
-Весь проект был выполнен с использованием архитектуры MVVM.
-
-В настоящее время работает на iPhone (iOS 16.0).
-
 ## Built With
 
 * [SwfitUI](https://developer.apple.com/xcode/swiftui/) - To build user interfaces across all Apple platforms.
