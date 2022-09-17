@@ -1,3 +1,4 @@
+![photo_2022-09-17 18 06 32](https://user-images.githubusercontent.com/54499958/190863792-1ab4243b-74c5-4a61-829f-d1728dd8e5aa.jpeg)
 # Crypto-Tracker
 
 Это приложение показывает криптовалюты с помощью бесплатного API CoinGecko. Вы можете отслеживать различные монеты,
