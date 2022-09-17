@@ -7,7 +7,7 @@
 
 
 
-<img alt="![photo_2022-09-17 18 06 39](https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg)
+<img alt="![photo_2022-09-17 18 06 39]" src ="https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg" height="420" width="210"
 " height="420" width="210">,
 <img alt="Снимок экрана 2022-08-26 в 12 53 35" src="https://user-images.githubusercontent.com/54499958/186879242-1df6215c-3b46-42fc-9604-e58b4d80c9a9.png" height="420" width="210">,
 <img alt="Снимок экрана 2022-08-26 в 12 53 45" src="https://user-images.githubusercontent.com/54499958/186879260-15f2d66a-67a3-4ca9-9bd3-f4680ed6835e.png" height="420" width="210">,
