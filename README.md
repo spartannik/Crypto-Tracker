@@ -4,7 +4,6 @@
 добавлять их в своё портфолио.
 Это приложение было полностью написано на SwiftUI с использованием фреймворка Combine.
 
-![photo_2022-09-17 18 06 39](https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg)
 
 
 <img alt="![photo_2022-09-17 18 06 39](https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg)
