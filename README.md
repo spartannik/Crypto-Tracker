@@ -4,9 +4,11 @@
 добавлять их в своё портфолио.
 Это приложение было полностью написано на SwiftUI с использованием фреймворка Combine.
 
+![photo_2022-09-17 18 06 39](https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg)
 
 
-<img alt="Снимок экрана 2022-08-26 в 13 18 23" src="[https://user-images.githubusercontent.com/54499958/186883030-463ba358-cad1-4c0b-8305-3bc8d2be309b.png](https://user-images.githubusercontent.com/54499958/190863693-ef2b0a7d-4152-4e70-8977-7b3607fb04de.jpeg)" height="420" width="210">,
+<img alt="![photo_2022-09-17 18 06 39](https://user-images.githubusercontent.com/54499958/190863743-befb4e86-9ea8-4bbe-b99a-bb2c579df1e8.jpeg)
+" height="420" width="210">,
 <img alt="Снимок экрана 2022-08-26 в 12 53 35" src="https://user-images.githubusercontent.com/54499958/186879242-1df6215c-3b46-42fc-9604-e58b4d80c9a9.png" height="420" width="210">,
 <img alt="Снимок экрана 2022-08-26 в 12 53 45" src="https://user-images.githubusercontent.com/54499958/186879260-15f2d66a-67a3-4ca9-9bd3-f4680ed6835e.png" height="420" width="210">,
 <img alt="Снимок экрана 2022-08-26 в 12 53 51" src="https://user-images.githubusercontent.com/54499958/186879266-d08e76bd-6d1e-4de1-b839-0c89d86e0706.png" height="420" width="210">
