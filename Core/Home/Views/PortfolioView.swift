@@ -105,9 +105,9 @@ extension PortfolioView {
             HStack {
                 Text("Amount holding:")
                 Spacer()
-                TextField("Ex: 1.4", text: $quantityText)
+                TextField("Ex: 0.4", text: $quantityText)
                     .multilineTextAlignment(.trailing)
-                    .keyboardType(.decimalPad)
+                    .keyboardType(.numbersAndPunctuation)
             }
             Divider()
             HStack {

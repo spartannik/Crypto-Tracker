@@ -17,37 +17,42 @@ import Foundation
      "symbol": "btc",
      "name": "Bitcoin",
      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
-     "current_price": 23190,
-     "market_cap": 444112363441,
+     "current_price": 58908,
+     "market_cap": 1100013258170,
      "market_cap_rank": 1,
-     "fully_diluted_valuation": 488052343414,
-     "total_volume": 41240552940,
-     "high_24h": 24082,
-     "low_24h": 23010,
-     "price_change_24h": -599.3290849571276,
-     "price_change_percentage_24h": -2.51929,
-     "market_cap_change_24h": -11163698926.501587,
-     "market_cap_change_percentage_24h": -2.45207,
-     "circulating_supply": 19109343,
+     "fully_diluted_valuation": 1235028318246,
+     "total_volume": 69075964521,
+     "high_24h": 59504,
+     "low_24h": 57672,
+     "price_change_24h": 808.94,
+     "price_change_percentage_24h": 1.39234,
+     "market_cap_change_24h": 13240944103,
+     "market_cap_change_percentage_24h": 1.21837,
+     "circulating_supply": 18704250,
      "total_supply": 21000000,
      "max_supply": 21000000,
-     "ath": 69045,
-     "ath_change_percentage": -66.33983,
-     "ath_date": "2021-11-10T14:24:11.849Z",
+     "ath": 64805,
+     "ath_change_percentage": -9.24909,
+     "ath_date": "2021-04-14T11:54:46.763Z",
      "atl": 67.81,
-     "atl_change_percentage": 34173.60348,
+     "atl_change_percentage": 86630.1867,
      "atl_date": "2013-07-06T00:00:00.000Z",
      "roi": null,
-     "last_updated": "2022-08-01T12:30:14.781Z",
+     "last_updated": "2021-05-09T04:06:09.766Z",
      "sparkline_in_7d": {
        "price": [
-         22012.98687066493,
-         21950.82826585681,
+         57812.96915967891,
+         57504.33531773738,
        ]
      },
-     "price_change_percentage_24h_in_currency": -2.5192925453092427
- }
+     "price_change_percentage_24h_in_currency": 1.3923423473152687
+   }
+ 
  */
+
+
+import Foundation
+
 
 struct CoinModel: Identifiable, Codable {
     let id, symbol, name: String
@@ -114,4 +119,3 @@ struct CoinModel: Identifiable, Codable {
 struct SparklineIn7D: Codable {
     let price: [Double]?
 }
-
